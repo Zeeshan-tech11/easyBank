@@ -232,6 +232,7 @@ footer .log{
     }
     .burger{
         display: block;
+        cursor: pointer;
     }
 
     
