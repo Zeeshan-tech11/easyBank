@@ -61,7 +61,8 @@ flex-direction: column;
     margin: 0 auto;
     position: fixed;
      top: 10%;
-     left:5%
+     left:5%;
+     text-align: right;
 }
  ul li:hover{
     cursor: pointer;
