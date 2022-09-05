@@ -63,7 +63,7 @@ flex-direction: column;
      top: 10%;
      left:5%
 }
-.nav ul li:hover{
+ ul li:hover{
     cursor: pointer;
     border-bottom: 3px solid var(--Lime-Green);
 }
